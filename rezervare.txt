@@ -1,0 +1,12 @@
+2 22 5 2025 9 Popescu Andrei  
+3 7 6 2025 14 Ionescu Maria  
+4 15 8 2025 11 Georgescu Vlad  
+5 10 9 2025 13 Dobre Elena  
+6 1 10 2025 15 Stan Marius  
+8 5 12 2025 16 Barbu Stefan  
+9 25 1 2026 8 Marin Anca  
+10 3 2 2026 10 Vasile Adrian  
+1 17 3 2026 14 Grigore Bianca  
+2 4 4 2026 11 Ene Cristian  
+2 14 4 2025 10 Andreea Maria
+1 1 2 2025 12 Sofica Denis
